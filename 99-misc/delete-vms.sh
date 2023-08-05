@@ -10,3 +10,5 @@ function delete_vm {
 delete_vm "cp1"
 delete_vm "node1"
 delete_vm "node2"
+delete_vm "node3"
+delete_vm "node4"
